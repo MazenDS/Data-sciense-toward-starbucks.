@@ -32,3 +32,6 @@ Nan values is the most challenges part in any data work. Starbucks would have be
 
 # Licensing, Author, Acknowledgements:
 Credits must be given to Udacity for the starter codes and Starbucks for provding the data used by this project.
+
+# project post on LinkedIn: 
+https://www.linkedin.com/pulse/starbucks-toward-data-science-mazen-alrefai/
