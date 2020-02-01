@@ -13,7 +13,7 @@
 
 
 # Project Motivation
-This project is the capston project to get the Data sciense nano degree done. Starbucks not only coffee makers company, it went beyond that which makes it sustainable company. They published their data to be analyzed and study the costumer behaviuor. Particulary this project, will focus on costumer offers reaction and how they accept the promotions that given to costumers and how well it works. 
+This project is the capstone  project to get the Data science nano degree done. Starbucks not only coffee makers company, it went beyond that which makes it sustainable company. They published their data to be analyzed and study the costumer behavior. Particularly this project, will focus on costumer offers reaction and how they accept the promotions that given to costumers and how well it works.
 
 
 # File Descriptions:
@@ -33,5 +33,5 @@ Nan values is the most challenges part in any data work. Starbucks would have be
 # Licensing, Author, Acknowledgements:
 Credits must be given to Udacity for the starter codes and Starbucks for provding the data used by this project.
 
-# project post on LinkedIn: 
-https://www.linkedin.com/pulse/starbucks-toward-data-science-mazen-alrefai/
+# project post on Medium: 
+https://medium.com/@alrefai.inbox/starbucks-toward-data-science-3c03403a84f5
